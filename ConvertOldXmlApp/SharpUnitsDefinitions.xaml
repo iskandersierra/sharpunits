@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SharpUnitsDefinition xmlns="clr-namespace:SharpUnits.SourceData;assembly=SharpUnits.SourceData" 
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <SharpUnitsDefinition.Dimensions>
+    <BaseDimension Name="Length" Symbol="L">
+      <BaseDimension.Captions>
+        <LocalizedText Culture="en">Length</LocalizedText>
+        <LocalizedText Culture="es">Longitud</LocalizedText>
+      </BaseDimension.Captions>
+    </BaseDimension>
+  </SharpUnitsDefinition.Dimensions>
+</SharpUnitsDefinition>
